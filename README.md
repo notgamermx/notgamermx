@@ -1,7 +1,6 @@
 # 💫 About Me:
 🎓Education<br>-Pursuing a B.Tech in Computer Science at Govt. Model Engineering College, Kochi (2025–2029).<br>-Actively engaged in coursework and projects.<br>-Core Focus: Strong emphasis on Creative Technology and Rapid Prototyping.<br>🛠️ Technical Expertise<br>-A robust skill set covering full-stack development, modern frameworks, and advanced deployment strategies.<br>-Programming Languages: Skilled in Python, Java, PHP, HTML, and CSS.<br>-Development Frameworks: Proficient with modern frameworks (e.g., Next.js) and highly experienced in both Web and Game Development using Unity and Unreal Engine. 🌐🎮<br>-DevOps & Cloud: Expertise in Repo Management (GitHub) and modern Deployment Workflows (Vercel). Experienced in Cloud Integration with Firebase.<br>-Core Competencies: Strong foundation in System Design, Branding, and professional Portfolio Development.<br>💪 Professional Strengths<br>-Combining technical prowess with effective communication and adaptability.<br>-Adaptability & Communication: Adept at translating complex technical solutions for diverse audiences, from academic peers to broader community groups. 🎤<br>-Creative Problem-Solving: Blends analytical problem-solving with creative communication, ensuring projects are both technically sound and highly engaging. ✨<br>-Resilience & Collaboration: Demonstrates high resilience and adaptability, thriving effectively in both collaborative team settings and independent work environments. 🚀
-https://www.mediafire.com/file/xlqv5qqm1msfpee/OmniDev_1.0.0_amd64.deb/file
-https://www.mediafire.com/file/4n053lr6souk047/personal_ai_dev-1.0.0-py3-none-any.whl/file
+
 
 
 # 💻 Tech Stack:
